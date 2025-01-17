@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8095838b.css",
+    "main.js": "/portfolio/static/js/main.91f113cc.js",
+    "static/media/travel.png": "/portfolio/static/media/travel.3f1e703c327327f3a246.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.d8a48484448f13e53aa8.pdf",
+    "static/media/native-jobs.png": "/portfolio/static/media/native-jobs.aefeaca3698579f1e739.png",
+    "static/media/blog-1.svg": "/portfolio/static/media/blog-1.f765e1b0fff9fb909ed6db7a682ac4e2.svg",
+    "static/media/cryptoverse.png": "/portfolio/static/media/cryptoverse.9082016cd20b7f1e0ae0.png",
+    "static/media/memoji.webp": "/portfolio/static/media/memoji.be843e20084045e77f5f.webp",
+    "static/media/logo.png": "/portfolio/static/media/logo.1f27b0b95c80405936a7.png",
+    "static/media/dots-bg-dark.svg": "/portfolio/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "static/media/light-logo.svg": "/portfolio/static/media/light-logo.060bc1a33908778a0f6c21523c22a8dd.svg",
+    "index.html": "/portfolio/index.html",
+    "main.8095838b.css.map": "/portfolio/static/css/main.8095838b.css.map",
+    "main.91f113cc.js.map": "/portfolio/static/js/main.91f113cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8095838b.css",
+    "static/js/main.91f113cc.js"
+  ]
+}
