@@ -5,6 +5,7 @@ aside {
   background-color: var(--body-color);
   border-right: 1px solid var(--border-color);
   padding: 2.5rem;
+  padding-bottom: 150px;
   width: 110px;
   min-height: 100vh;
   display: flex;

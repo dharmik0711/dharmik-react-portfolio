@@ -19,8 +19,6 @@ const About = () => {
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">
-                            Hi, I’m <span className="highlight-primary">Dharmik Patel</span><br />
-                            I’m based in <strong>Ontario</strong>, where I’m <span className="highlight-secondary">crafting the future of data engineering and analytics</span>.<br /><br />
                             I am a <span className="highlight-accent">self-driven, career-oriented data enthusiast</span> specializing in <strong>big data technologies, cloud computing</strong>, and <strong>data pipeline automation</strong>. Currently, I am pursuing a <strong>diploma in Computer Systems Technology – Software Development and Network Engineering</strong> at <span className="highlight-tertiary">Sheridan College</span>, where I have achieved a GPA of <span className="highlight-gold">3.58/4</span>.
                             <br /><br />
                             My expertise lies in <span className="highlight-info">designing and implementing data workflows</span>, from <span className="highlight-process">ETL processes to data warehousing and visualization</span>. I work with technologies like <span className="highlight-tech">SQL, Python, Power BI, Tableau, AWS, and Azure</span> to transform raw data into <span className="highlight-insights">actionable insights</span>.
